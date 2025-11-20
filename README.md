@@ -8,12 +8,12 @@ Chào mừng bạn đến với ứng dụng bỏ túi đơn giản\!
 
 # Hình Ảnh Ứng Dụng
 
-![Màn Hình Chính Ứng Dụng](asstes/images/mainScreenApp.png)
-![Màn Hình Ứng Dụng Khi Nhập Phép Tính](asstes/images/calculator_screen.png)
-![Màn Hình Kết Quả Của Ứng Dụng](asstes/images/submit_result_screen.png)
+![Màn Hình Chính Ứng Dụng](assets/images/mainScreenApp.png)
+![Màn Hình Ứng Dụng Khi Nhập Phép Tính](assets/images/calculator_screen.png)
+![Màn Hình Kết Quả Của Ứng Dụng](assets/images/submit_result_screen.png)
 
 =======
-# Công Nghệp Sử Dụng
+# Công Nghệ Sử Dụng
 * **Ngôn Ngữ:** Dart
 * **FrameWork:** Flutter
 
