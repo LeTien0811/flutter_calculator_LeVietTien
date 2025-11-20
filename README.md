@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Ứng Dụng Bỏ Túi Đơn Giản
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Mô Tả Dự Án: 
 Chào mừng bạn đến với ứng dụng bỏ túi đơn giản\!
@@ -7,9 +8,9 @@ Chào mừng bạn đến với ứng dụng bỏ túi đơn giản\!
 
 # Hình Ảnh Ứng Dụng
 
-![Màn Hình Chính Ứng Dụng](images/mainScreenApp.png)
-![Màn Hình Ứng Dụng Khi Nhập Phép Tính](images/calculator_screen.png)
-![Màn Hình Kết Quả Của Ứng Dụng](images/submit_result_screen.png)
+![Màn Hình Chính Ứng Dụng](asstes/images/mainScreenApp.png)
+![Màn Hình Ứng Dụng Khi Nhập Phép Tính](asstes/images/calculator_screen.png)
+![Màn Hình Kết Quả Của Ứng Dụng](asstes/images/submit_result_screen.png)
 
 =======
 # Công Nghệp Sử Dụng
