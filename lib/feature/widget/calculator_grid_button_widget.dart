@@ -12,6 +12,7 @@ class CalculatorGridButton extends StatefulWidget {
 }
 
 class _CalculatorGridButtonState extends State<CalculatorGridButton> {
+  // lưới nút bấm để hiển thị tất cả các nút bấm được custom từ trước
   @override
   Widget build(BuildContext context) {
     final calc = context.watch<CalculatorService>();

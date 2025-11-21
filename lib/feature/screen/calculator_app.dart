@@ -17,6 +17,7 @@ class _CalculatorApp extends State<CalculatorApp> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
+            // hiển thị màn hình và lưới nút bấm
             CalculatorScreen(),
             CalculatorGridButton(),
             ],

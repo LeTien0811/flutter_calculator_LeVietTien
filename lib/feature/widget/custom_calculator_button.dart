@@ -7,6 +7,8 @@ class CustomCalculatorButton extends StatelessWidget {
   final String ValueButton;
   final Color ButtonColor;
 
+  // nút bấm được custom màu sắc radius vvv, cùng với sự kiện được click gọi đến hàm được cấu trúc sẵn trong bộ não services.
+
   const CustomCalculatorButton({
     super.key,
     required this.ValueButton,

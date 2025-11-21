@@ -13,6 +13,7 @@ class CalculatorScreen extends StatefulWidget {
 class _CalculatorScreen extends State<CalculatorScreen> {
   @override
   Widget build(BuildContext context) {
+    // gọi đến bộ não để hiển thị các phép tính.
     final calc = context.watch<CalculatorService>();
     return Container(
       padding: const EdgeInsets.all(16),

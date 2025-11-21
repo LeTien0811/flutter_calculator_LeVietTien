@@ -13,7 +13,8 @@ Dưới đây là một số hình ảnh về ứng dụng:
 | Màn hình chính | Nhập phép tính | Kết quả |
 | :---: | :---: | :---: |
 | <img src="assets/images/mainScreenApp.png" width="250"> | <img src="assets/images/calculator_screen.png" width="250"> | <img src="assets/images/submit_result_screen.png" width="250"> |
-=======
+
+===============================================
 # Công Nghệ Sử Dụng
 * **Ngôn Ngữ:** Dart
 * **FrameWork:** Flutter

@@ -5,7 +5,10 @@ import 'package:flutter_calculator_leviettien/feature/services/global_service.da
 import 'package:provider/provider.dart';
 
 void main() {
-  runApp(
+  runApp( 
+    // khởi tại ChangeNotifierProvider mục đích khai báo CalculatorService cho tất cả các widget con trong main app có thể sử dụng nó mà không phải khai báo nhiều lần truyền từ widget này sang widget kia giúp clean code.
+    
+    // CalculatorService là services bộ não thực hiện hiển thị tính toán nhận các thao tác click từ người dùng.
     ChangeNotifierProvider(
       create: (_) => CalculatorService(),
       child: const MainApp(),
@@ -19,6 +22,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      // Khai báo font và màu nền, gọi calculator app nó chứa cái widget màn hình và nút bấm.
       theme: ThemeData(
         fontFamily: 'Roboto',
         scaffoldBackgroundColor: AppColor.Dark_Primary,
